@@ -15,6 +15,6 @@ This application will prompt the user for information about the team manager and
 MIT
 
 ## Video Walkthroughs
-[Tests] https://drive.google.com/file/d/1fCvH0lO8idGQTHyZy3s04i3TkY8Yrc83/view
+[Tests] (https://drive.google.com/file/d/1fCvH0lO8idGQTHyZy3s04i3TkY8Yrc83/view)
 
-[Application] https://drive.google.com/file/d/1Ly_pCt80q21B_08HfNvM0cEMEYXkxVnl/view
+[Application] (https://drive.google.com/file/d/1Ly_pCt80q21B_08HfNvM0cEMEYXkxVnl/view)

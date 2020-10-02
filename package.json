@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "inquirer": "^7.3.3",
+    "jest": "^26.4.2",
     "node": "^14.13.0"
   },
   "devDependencies": {},
